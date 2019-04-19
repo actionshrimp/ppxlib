@@ -103,6 +103,7 @@ module Whitelisted = struct
       ; "ocaml.doc"
       ; "ocaml.extension_constructor"
       ; "ocaml.immediate"
+      ; "ocaml.immediate64"
       ; "ocaml.inline"
       ; "ocaml.inlined"
       ; "ocaml.local"
